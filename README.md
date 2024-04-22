@@ -1,6 +1,6 @@
-# Transaction Manager
+#🛒 Transaction Manager
 
-Welcome to the Transaction Manager project! This Python script empowers you to meticulously manage transactions, offering an extensive array of functionalities including writing transaction data to CSV files, displaying detailed bills, capturing customer faces for enhanced security, and seamlessly reading CSV files using SQL for in-depth analysis and reporting.
+Welcome to the Transaction Manager project! 🚀 This Python script empowers you to meticulously manage transactions, offering an extensive array of functionalities including writing transaction data to CSV files, displaying detailed bills 💵, capturing customer faces for enhanced security 🔒, and seamlessly reading CSV files using SQL for in-depth analysis and reporting 📊.
 
 ## Introduction
 
